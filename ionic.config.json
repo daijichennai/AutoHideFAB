@@ -1,0 +1,7 @@
+{
+  "name": "AutoHideFAB",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
